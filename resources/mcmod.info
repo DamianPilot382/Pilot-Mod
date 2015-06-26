@@ -1,0 +1,16 @@
+[
+{
+  "modid": "PilotMod",
+  "name": "Pilot's Mod",
+  "description": "Pilot's Mod! Download and play!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://pilotcraftmc.com/",
+  "updateUrl": "",
+  "authorList": ["DamianPilot382"],
+  "credits": "Created by: DamianPilot382, with the help of Jorge170699, SebastianSal, and Luigi199922",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

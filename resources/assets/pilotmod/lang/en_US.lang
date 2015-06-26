@@ -1,0 +1,35 @@
+tile.blockSapphireOre.name=Sapphire Ore
+tile.blockSapphire.name=Sapphire Block
+tile.blockBlueSapphireOre.name=Blue Sapphire Ore
+tile.blockBlueSapphire.name=Blue Sapphire Block
+
+item.itemSapphire.name=Sapphire
+item.axeSapphire.name=Sapphire Axe
+item.hoeSapphire.name=Sapphire Hoe
+item.pickaxeSapphire.name=Sapphire Pickaxe
+item.shovelSapphire.name=Sapphire Shovel
+item.strawberry.name=Strawberry
+item.swordSapphire.name=Sapphire Sword
+item.creativeTabIcon.name=Pilot Icon
+item.sapphireHelmet.name=Sapphire Helmet
+item.sapphireChestplate.name=Sapphire Chestplate
+item.sapphireLeggings.name=Sapphire Leggings
+item.sapphireBoots.name=Sapphire Boots
+item.luigiHat.name=Luigi's Hat
+item.itemBlueSapphireIngot.name=Blue Sapphire Ingot
+item.foodStrawberry.name=Strawberry
+item.foodBurrito.name=Burrito
+item.foodCereal.name=Cereal Bowl
+item.foodSoda.name=Soda
+
+
+entity.entityPilot.name=DamianPilot382
+entity.entityJorge.name=Jorge170699
+entity.entityLuigi.name=Luigi199922
+entity.entitySebas.name=SebastianSal
+entity.entityPagui.name=Pagui73
+entity.entityMajo.name=Majo_Orellana
+
+
+
+itemGroup.PilotMod=Pilot's Mod
